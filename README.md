@@ -1,2 +1,1 @@
-# JARVIS
-JARVIS AI Assistant Using Python  
+🤖 Jarvis AI Assistant is a multifunctional voice-activated program. 💬 It offers features like email sending, system information retrieval, and joke-telling. 📅 With a graphical interface and password protection, it ensures user interaction and security. ⏰ Jarvis continuously listens for commands and responds accordingly, making tasks seamless. 🚀 From scheduling appointments to checking internet speeds, Jarvis is your virtual helper for everyday tasks!
